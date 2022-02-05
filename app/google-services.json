@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870911245922",
+    "project_id": "quiz-me-b369d",
+    "storage_bucket": "quiz-me-b369d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870911245922:android:9fb5a6152aef22e9661b3b",
+        "android_client_info": {
+          "package_name": "com.inspireclubnitrkl.e_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870911245922-hfp3pgq004qb17jf6tcm17hc7gvhcs26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBANDnV8EbMzEu9RvN5C4XUl0ZEkpo7fYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870911245922-hfp3pgq004qb17jf6tcm17hc7gvhcs26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
